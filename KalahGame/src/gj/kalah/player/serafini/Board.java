@@ -121,7 +121,7 @@ public class Board {
 		}
 		return score;
 	}
-	/*
+	
 	public void printBoard() {
 		System.out.print("-------------------------------" + "\n" + "B: " + "[" + bowlPoints(0, 6) + "] " );
 		for (int i = 5; i >= 0; i--) {
@@ -133,6 +133,6 @@ public class Board {
 		}
 		System.out.print("[" + bowlPoints(1, 6) + "]" + "\n" + "---------------------------------" + "\n");
 	}
-	*/
+	
 
 }
